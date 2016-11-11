@@ -1,0 +1,26 @@
+PurposeIntent what is your purpose
+PurposeIntent what is your function
+CheckInIntent {Name} is home
+CheckInIntent i'm home 
+CheckInIntent home
+CheckInIntent i have arrived
+CheckInIntent i've arrived
+CheckInIntent i'm here
+CheckInIntent i'm back
+CheckInIntent check in
+CheckInIntent checking in
+ChoreListIntent what are my chores
+ChoreListIntent what do i have to do today
+ChoreListIntent chores
+ChoreListIntent my chores
+ChoreListIntent what my chores are today
+ChoreListIntent task list
+ChoreListIntent chore list
+ChoreListIntent my list
+ChoreListIntent what things are on my list
+ChoreListIntent what things do i have to do today
+FinishChoreIntent i finished {Chore}
+FinishChoreIntent i'm done {Chore}
+FinishChoreIntent i completed {Chore}
+FinishChoreIntent i'm finally done {Chore}
+FinishChoreIntent i'm done with {Chore}

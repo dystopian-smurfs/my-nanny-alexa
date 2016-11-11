@@ -1,0 +1,43 @@
+{
+	"intents": [
+		{
+			"intent": "CheckInIntent",
+			"slots": [
+        {
+          "name": "Name",
+          "type": "CODENAME"
+        }
+      ]
+		},
+    {
+      "intent": "FinishChoreIntent",
+      "slots": [
+        {
+          "name": "Chore",
+          "type": "CHORE"
+        }
+      ]
+    },
+    {
+      "intent": "ChoreListIntent"
+    },
+    {
+      "intent": "PurposeIntent"
+    },
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    }
+	]
+}
